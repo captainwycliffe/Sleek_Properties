@@ -1,5 +1,5 @@
 # 🚀 Flutter Bloc Boilerplate - Oct 2023
-Flutter Bloc State Management is a starting point for Flutter application using flutter_bloc state management. This project is configured with flutter_bloc, bloc, http,skeletons, image_picker, shared_preferences, connectivity_plus, formz
+Sleek Properties is a starting point for Flutter application using flutter_bloc state management. This project is configured with flutter_bloc, bloc, http,skeletons, image_picker, shared_preferences, connectivity_plus, formz
 and font_awesome_flutter. Uses latest version of flutter (3.1.3), flutter_bloc (8.1.3)
 
 
@@ -36,18 +36,6 @@ and font_awesome_flutter. Uses latest version of flutter (3.1.3), flutter_bloc (
 - [formz](https://pub.dev/packages/formz)
 - [font_awesome_flutter](https://pub.dev/packages/font_awesome_flutter)
 
-## How this looks
-
-![ScreenShot](https://raw.github.com/rahuljograna/flutter_bloc_boilerplate_api_crud/master/boilerplate_assets/1.png)
-![ScreenShot](https://raw.github.com/rahuljograna/flutter_bloc_boilerplate_api_crud/master/boilerplate_assets/2.png)
-![ScreenShot](https://raw.github.com/rahuljograna/flutter_bloc_boilerplate_api_crud/master/boilerplate_assets/3.png)
-![ScreenShot](https://raw.github.com/rahuljograna/flutter_bloc_boilerplate_api_crud/master/boilerplate_assets/4.png)
-![ScreenShot](https://raw.github.com/rahuljograna/flutter_bloc_boilerplate_api_crud/master/boilerplate_assets/5.png)
-![ScreenShot](https://raw.github.com/rahuljograna/flutter_bloc_boilerplate_api_crud/master/boilerplate_assets/6.png)
-![ScreenShot](https://raw.github.com/rahuljograna/flutter_bloc_boilerplate_api_crud/master/boilerplate_assets/7.png)
-![ScreenShot](https://raw.github.com/rahuljograna/flutter_bloc_boilerplate_api_crud/master/boilerplate_assets/8.png)
-![ScreenShot](https://raw.github.com/rahuljograna/flutter_bloc_boilerplate_api_crud/master/boilerplate_assets/9.png)
-![ScreenShot](https://raw.github.com/rahuljograna/flutter_bloc_boilerplate_api_crud/master/boilerplate_assets/10.png)
  
 ## Contributing
 
