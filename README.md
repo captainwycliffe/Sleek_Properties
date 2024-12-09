@@ -1,4 +1,4 @@
-# 🚀 Flutter Bloc Boilerplate - Oct 2023
+# 🚀 Sleek Properties
 Sleek Properties is a starting point for Flutter application using flutter_bloc state management. This project is configured with flutter_bloc, bloc, http,skeletons, image_picker, shared_preferences, connectivity_plus, formz
 and font_awesome_flutter. Uses latest version of flutter (3.1.3), flutter_bloc (8.1.3)
 
